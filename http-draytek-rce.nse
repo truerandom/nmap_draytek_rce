@@ -16,7 +16,7 @@ References:
 
 ---
 -- @usage
--- nmap -p <port> --script http-draytek-rce 132.248.193.29
+-- nmap -p <port> --script http-draytek-rce <ip>
 
 author = "truerand0m (twitter.com/truerand0m)"
 license = "Same as Nmap--See https://nmap.org/book/man-legal.html"
